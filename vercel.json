@@ -12,15 +12,7 @@
       "dest": "/index.js"
     }
   ],
-  "public": {
-    "rewrites": [
-      {
-        "source": "/(.*)",
-        "destination": "/$1"
-      }
-    ]
-  }
+  "public": true
 }
-
 
 
